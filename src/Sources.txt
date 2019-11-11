@@ -1,0 +1,7 @@
+"a_take_of_two_cities_by_Charles_Dickens.txt:"
+Written by Carles Dickens.
+Retrieved and Adapted from: https://www.gutenberg.org/files/98/98-0.txt
+
+"dwarf_names.txt" & "orc_names.txt"
+Written by Colin Chapman
+Retrieved and Adapted from: http://www.darkshire.net/jhkim/rpg/lordoftherings/names.pdf
